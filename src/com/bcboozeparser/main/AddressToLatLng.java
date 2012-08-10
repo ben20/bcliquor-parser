@@ -135,18 +135,21 @@ public class AddressToLatLng {
 		sb.append(",+CA&sensor=true");
 
 		System.out.println(sb.toString());
-		addressToLatLng(sb.toString());
+		addressToLatLng(address, city, sb.toString());
 
 		return sb.toString();
 	}
 
 	/**
-	 * Calls the Geocode API from the given URL, url_name. It then calls a
-	 * function to parse the JSON string returned.
+	 * Calls the GeoCode API from the given url and parses the corresponding
+	 * json response.
 	 * 
-	 * @param url_name
+	 * @param address
+	 *            , city are to be passed on to the parseJsonInput() method
+	 * 
 	 */
-	private static void addressToLatLng(String url_name) {
+	private static void addressToLatLng(String address, String city,
+			String url_name) {
 
 		try {
 			URL my_url = new URL(url_name);
@@ -163,7 +166,7 @@ public class AddressToLatLng {
 			while ((input = br.readLine()) != null) {
 				sb.append(input);
 			}
-			parseJSONInput(sb.toString());
+			parseJSONInput(address, city, sb.toString());
 
 			br.close();
 		} catch (MalformedURLException e) {
@@ -175,9 +178,15 @@ public class AddressToLatLng {
 
 	/**
 	 * Uses GSON to parse the json string return from the GeoCode API call.
+	 * 
+	 * Stores the original address and city from DataBC's data file in the
+	 * parsed text file instead of the address returned in the JSON.
+	 * 
+	 * CHANGES: - only parses the first result from the JSON output. The
+	 * multiple results in the JSON are due to the location being found in a
+	 * complex. (I think).
 	 */
-	private static void parseJSONInput(String json) {
-
+	private static void parseJSONInput(String address, String city, String json) {
 		Gson gson = new Gson();
 
 		LiquorStoreLocation ls_location = null;
@@ -186,16 +195,18 @@ public class AddressToLatLng {
 		List<LiquorStore> liquorStore = ls_location.getResults();
 
 		StringBuilder sb;
-		for (LiquorStore ls : liquorStore) {
-			sb = new StringBuilder();
+		if (liquorStore.isEmpty()) {
+			writeToFile(NEW_LATLNG_FILE, "Empty\n");
+		} else {
+			LiquorStore ls = liquorStore.get(0);
 
-			String address = ls.getFormattedAddress() + "\t";
+			sb = new StringBuilder();
+			sb.append(address + " " + city + "\t");
 			String lat = ls.getGeometry().getLocation().getLat() + "\t";
 			String lng = ls.getGeometry().getLocation().getLng() + "\n";
 
 			System.out.println(address + lat + lng);
 
-			sb.append(address);
 			sb.append(lat);
 			sb.append(lng);
 
