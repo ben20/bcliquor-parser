@@ -1,0 +1,813 @@
+California, USA	36.7782610	-119.41793240
+Cariboo Hwy, 100 Mile House, BC V0K, Canada	51.59669840	-121.30570750
+30495 Cardinal Ave, Abbotsford, BC V4X 2M9, Canada	49.06062710	-122.37875130
+31940 S Fraser Way, Abbotsford, BC V2T, Canada	49.04890450000001	-122.33927350
+32470 Simon Ave, Abbotsford, BC V2T 5E3, Canada	49.05318390	-122.32447210
+2509 Pauline St, Abbotsford, BC V2S 2C1, Canada	49.04772340	-122.29179510
+1900 N Parallel Rd, Abbotsford, BC V3G 2C6, Canada	49.03621090	-122.23127140
+33790 Essendene Ave, Abbotsford, BC V2S, Canada	49.0489130	-122.28929010
+2520 Montvue Ave, Abbotsford, BC V2S 2H2, Canada	49.04829940	-122.28902380
+2406 Hot Springs Rd, Agassiz, BC V0M 1A1, Canada	49.24728550	-121.78310450
+27214 Fraser Hwy, Aldergrove, BC V4W 3P8, Canada	49.05800030	-122.47052570
+26444 32 Ave, Aldergrove, BC V4W 3E8, Canada	49.06032010	-122.49247380
+81 Fir St, Alert Bay, BC V0N 1A0, Canada	50.58499579999999	-126.92886870
+291 Fir St, Alert Bay, BC V0N 1A0, Canada	50.57715540	-126.91471350
+3400 Smith Dr, Armstrong, BC V0E 1B0, Canada	50.44784690	-119.18451320
+2570 Pleasant Valley Rd, Armstrong, BC V0E 1B2, Canada	50.43930460	-119.20596140
+Yellowhead Hwy, Barrière, BC V0E 1E0, Canada	51.17201340	-120.12735180
+Trans-Canada Hwy, Canada	49.84378170	-121.43244030
+996 Dorman Rd, Bowen Island, BC V0N, Canada	49.37930390	-123.33815190
+7557 Edmonds St, Burnaby, BC V3N, Canada	49.22260040	-122.9440630
+5820 Marine Dr, Burnaby, BC V5J 5J6, Canada	49.20570940	-122.97936410
+7000 Lougheed Hwy, Burnaby, BC V5A 1W2, Canada	49.25875140	-122.95820380
+7000 Lougheed Hwy, Burnaby, BC V5A, Canada	49.25958010	-122.96447530
+7000 Lougheed Hwy, Burnaby, BC V3N 4N4, Canada	49.2458920	-122.8928210
+7000 Lougheed Hwy, Burnaby, BC V5B 2Z9, Canada	49.26341890	-122.97603660
+1601 Burnwood Dr, Burnaby, BC V5A 4H1, Canada	49.26987090	-122.94548920
+7651 Royal Oak Ave, Burnaby, BC V5J 4K2, Canada	49.21395649999999	-122.98842340
+5665 Kingsway, Burnaby, BC V5H 2G4, Canada	49.22275330	-122.98102950
+5665 Kingsway, Burnaby, BC V5H 3Z7, Canada	49.23243890	-123.02242610
+4125 Hastings St, Burnaby, BC V5C 2J1, Canada	49.28105990	-123.01338060
+1899 Rosser Ave, Burnaby, BC V5C 6R5, Canada	49.26700040	-123.00625840
+BC Municipal Govt Sec - Prince George - Regional District of Bulkley Nechako, 492 W Highway 16, Burns Lake, BC T0E, Canada	53.52906220	-116.83156030
+Burns Lake, BC V0J, Canada	54.23341480	-125.7636130
+Trans-Canada Hwy, Cache Creek, BC V0K, Canada	50.78725940	-121.31470670
+1340 Island Hwy, Campbell River, BC, Canada	50.03505570	-125.24583580
+1270 Dogwood St, Campbell River, BC V9W 4G8, Canada	50.02765510	-125.2496330
+Campbell River, BC, Canada	50.03312260000001	-125.27333540
+1760 Island Hwy S, Campbell River, BC V9W 4L6, Canada	50.03255670	-125.26782580
+1760 S Island Hwy, Campbell River, BC V9W 1B7, Canada	49.97797460	-125.22120230
+1760 Island Hwy, Campbell River, BC V9W 3G4, Canada	50.03308890	-125.25993270
+1760 N Island Hwy, Campbell River, BC V9W 8E7, Canada	50.03648949999999	-125.27326370
+1760 Island Hwy N, Campbell River, BC V9W 3M8, Canada	50.03307130	-125.27311020
+1760 Island Hwy N, Campbell River, BC V9W 3Y9, Canada	50.02217530	-125.23952340
+1760 Island Hwy N, Campbell River, BC V9W 2C5, Canada	50.02514390	-125.24185590
+1760 Island Hwy N, Campbell River, BC V9W 3G2, Canada	50.03252770	-125.2625230
+1760 Island Hwy N, Campbell River, BC V9W 3L9, Canada	50.0327330	-125.2706340
+2253 S Island Hwy, Campbell River, BC V9W, Canada	49.97073030	-125.2153760
+1342 Shoppers Row, Campbell River, BC V9W 2E1, Canada	50.02944230	-125.24628630
+84 Dogwood St, Campbell River, BC V9W 2X8, Canada	50.00904629999999	-125.24757750
+975 Shoppers Row, Campbell River, BC V9W 2C6, Canada	50.02579550	-125.24290850
+521 Rockland Rd, Campbell River, BC V9W 8A9, Canada	49.98421860	-125.23738820
+465 Merecroft Rd, Campbell River, BC V9W 6A8, Canada	50.00026420	-125.24554260
+2207 Glenmore Rd, Campbell River, BC V9H 1E1, Canada	49.86982310	-125.1287090
+Campbell River, BC, Canada	50.03312260000001	-125.27333540
+8893 Grainger Rd, East Kootenay F, BC V0B, Canada	50.15836410	-115.80753170
+651 18 St, Castlegar, BC V1N 2N1, Canada	49.30006450	-117.65569180
+1101 4 St, Castlegar, BC V1N 1J3, Canada	49.32546640	-117.66434090
+1810 8th Ave, Castlegar, BC V1N 2W6, Canada	49.29968170	-117.65806560
+1965 Columbia Ave, Castlegar, BC V1N 2W8, Canada	49.2960570	-117.65421250
+1502 Columbia Ave, Castlegar, BC V1N, Canada	49.30637630	-117.65855720
+Central Saanich, BC, Canada	48.57035490	-123.39981350
+7143 W Saanich Rd, Central Saanich, BC V8M, Canada	48.57664030	-123.4472880
+7806 E Saanich Rd, Victoria, BC V8M 2B3, Canada	48.59430709999999	-123.41730230
+2134 Keating Cross Rd, Central Saanich, BC V8M 2A6, Canada	48.56514590	-123.41148450
+California, USA	36.7782610	-119.41793240
+718 Shuswap Ave, Chase, BC V0E 1M0, Canada	50.81955310	-119.68911740
+3030 Pine St, Chemainus, BC V0R 1K1, Canada	48.92662240	-123.72597380
+9576 Chemainus Rd, Chemainus, BC V0R 1K5, Canada	48.91443990	-123.71288780
+10519 Knight Rd, Ladysmith, BC V9G 2A9, Canada	48.94356240	-123.75174250
+9644 Chemainus Rd, Chemainus, BC V0R 1K3, Canada	48.91804770	-123.71554170
+4905 S Access Rd, Chetwynd, BC V0C, Canada	55.69737929999999	-121.62921380
+8247 Young Rd, Chilliwack, BC V2P 1A5, Canada	49.15202990	-121.95081790
+9701 Menzies St, Chilliwack, BC V2P 5Z9, Canada	49.17825610	-121.93345950
+5865 Vedder Rd, Chilliwack, BC V2R 3N4, Canada	49.10912090	-121.95873480
+45610 Luckakuck Way, Chilliwack, BC V2R 1A2, Canada	49.13946710	-121.96170180
+43971 Industrial Way, Chilliwack, BC V2R 3Z9, Canada	49.14571369999999	-122.00765970
+45555 Market Way, Chilliwack, BC V2R 5S1, Canada	49.10454630	-121.96381050
+5615 Teskey Way, Chilliwack, BC V2R 3W2, Canada	49.10381020	-121.93495720
+46298 Yale Rd E, Chilliwack, BC V2P 2P6, Canada	49.17325599999999	-121.94580650
+Chilliwack, BC, Canada	49.15794010	-121.95146660
+45850 Yale Rd W, Chilliwack, BC V2P 2N8, Canada	49.16562370	-121.95872160
+8559 Young Rd, Chilliwack, BC V2P 8A4, Canada	49.15827909999999	-121.95229030
+45844 Yale Rd W, Chilliwack, BC V2P 2N6, Canada	49.16522280	-121.95892050
+1770 Hwy 3, CHRISTINA LAKE, BC V0H 1E3, Canada	49.05762350	-118.21328130
+Southern Yellowhead Hwy, Clearwater, BC V0E 1N1, Canada	51.62863380	-119.95388390
+Cariboo Hwy, Clinton, BC V0K 1K0, Canada	51.05749040	-121.55630270
+British Columbia 97, Clinton, BC V0K 1K0, Canada	51.05749040	-121.55630270
+3566 Holland Ave, Cobble Hill, BC V0R 1L2, Canada	48.68909220	-123.60281290
+1400 Cowichan Bay Rd, Cobble Hill, BC V0R 1L3, Canada	48.71071999999999	-123.60779110
+12408 Kalamalka Rd, Coldstream, BC V1B 1M3, Canada	50.23012170	-119.26269240
+1913 Sooke Rd, Colwood, BC V9B 1W1, Canada	48.44120350	-123.47035470
+1740 Old Island Hwy, Colwood, BC V9B 1H8, Canada	48.44923760	-123.46510410
+101 Island Hwy, Victoria, BC V9A 2Y8, Canada	48.45120730	-123.42398160
+101 Island Hwy, Victoria, BC V9B 1M5, Canada	48.4518060	-123.4256460
+Island Hwy, Colwood, BC V9B 1J2, Canada	48.45220020	-123.46331170
+Island Hwy, Colwood, BC V9B 1H8, Canada	48.45489740	-123.46087030
+2244 Sooke Rd, Colwood, BC V9B 2A6, Canada	48.43510410	-123.49339080
+2082 Comox Ave, Comox, BC V9M 1P8, Canada	49.67579060	-124.93905230
+1770 Comox Ave, Comox, BC V9M 3M8, Canada	49.67333750	-124.92585480
+2082 Comox Ave, Comox, BC V9M 1P8, Canada	49.67579060	-124.93905230
+649 Anderton Rd, Comox, BC V9M 2J1, Canada	49.68661840	-124.9351010
+3080 Comox Rd, Comox, BC V9M 4E4, Canada	49.67838930	-124.96150440
+2082 Comox Ave, Comox, BC V9M 1P8, Canada	49.67579060	-124.93905230
+Comox, BC, Canada	49.67351330	-124.92826590
+1770 Comox Ave, Comox, BC V9M 3M8, Canada	49.67333750	-124.92585480
+2484 Alberni Hwy, Coombs, BC V0R 1M0, Canada	49.30612230	-124.36295830
+140 Schoolhouse St, Coquitlam, BC V3K 6V9, Canada	49.2342690	-122.85277990
+Port Coquitlam City Hall, 2580 Shaughnessy St, Port Coquitlam, BC V3C, Canada	49.26226780	-122.78063270
+BC Municipal Govt. Section - City Of Coquitlam, 3000 Guildford Way, Coquitlam, BC V3B 7N2, Canada	49.28457210	-122.79316480
+Port Coquitlam City Of, 2253 Leigh Sq, Port Coquitlam, BC V3C 3B8, Canada	49.26207180	-122.77994480
+BC International Martial Arts & Fitness, 901 Lougheed Hwy, Coquitlam, BC V3K 3T3, Canada	49.2370270	-122.8728090
+Mackin House Museum, 1116 Brunette Ave, Coquitlam, BC V3K 1G3, Canada	49.23872249999999	-122.86178150
+Coquitlam Poirier Community Centre, 640 Poirier St, Coquitlam, BC V3J 6B1, Canada	49.25565270	-122.84644560
+Credit Unions of BC, 1175 Johnson St, Coquitlam, BC V3B 7K1, Canada	49.28268520	-122.80163720
+Canada International Language College LTD, Winslow Ave, Coquitlam, BC V3J, Canada	49.2497870	-122.859810
+Credit Unions of BC, Suite 20-2991 Lougheed Hwy, Coquitlam, BC V3B 6J6, Canada	49.27627480	-122.79582020
+Credit Unions of BC, 1101 Austin Ave, Coquitlam, BC V3K 3P4, Canada	49.24912220	-122.86242060
+1125 Falcon Dr, Coquitlam, BC V3E 1S3, Canada	49.27889030	-122.8183590
+3025 Lougheed Hwy, Coquitlam, BC V3B 6J6, Canada	49.27595510	-122.79408910
+1175 Johnson St, Coquitlam, BC V3B, Canada	49.28268540	-122.8016590
+1000 Austin Ave, Coquitlam, BC V3K, Canada	49.24894510	-122.8673160
+405 N Rd, Coquitlam, BC, Canada	49.24628420	-122.89262170
+170 Golden Dr, Coquitlam, BC V3K 6T1, Canada	49.23330240	-122.82079990
+319 N Rd, Coquitlam, BC V3K 3V8, Canada	49.24301890	-122.89247040
+541 Clarke Rd, Coquitlam, BC V3J 3X4, Canada	49.26105099999999	-122.89084760
+935 Brunette Ave, Coquitlam, BC V3K 1C8, Canada	49.2372070	-122.8702770
+444 Lerwick Rd, Courtenay, BC V9N 9G4, Canada	49.71037150	-124.96569980
+275 8 St, Courtenay, BC V9N 1N4, Canada	49.6893570	-124.9970340
+1590 Cliffe Ave, Courtenay, BC V9N 2K4, Canada	49.68495220	-124.99145170
+1001 Ryan Rd, Courtenay, BC V9N 3R6, Canada	49.6983660	-124.9849640
+2355 Mansfield Dr, Courtenay, BC V9N 2M2, Canada	49.67817440	-124.98182940
+1681 Cowichan Bay Rd, Cowichan Bay, BC V0R 1N1, Canada	48.74005140	-123.61795970
+2100 Willowbrook Dr, Cranbrook, BC V1C 3S7, Canada	49.52869880	-115.74771130
+600 Cranbrook St N, Cranbrook, BC V1C, Canada	49.51803860	-115.76145260
+600 Cranbrook St N, Cranbrook, BC V1C 3S5, Canada	49.51893360	-115.76060340
+21 Cranbrook St N, Cranbrook, BC V1C 3P7, Canada	49.51284649999999	-115.76807080
+22 7 Ave S, Cranbrook, BC V1C 2J1, Canada	49.51116649999999	-115.77161260
+1418 Canyon St, Creston, BC V0B 1G4, Canada	49.09566179999999	-116.50847050
+123 9 Ave S, Creston, BC V0B 1G3, Canada	49.09479820	-116.51488260
+1534 Joan Ave, Crofton, BC V0R 1R0, Canada	48.86467110	-123.64117040
+3696 Columbia Valley Hwy, Cultus Lake, BC V2R 5A3, Canada	49.06962460	-121.96256630
+2692 Dunsmuir Ave, Cumberland, BC V0R, Canada	49.61878460	-125.03097850
+10100 10 St, Dawson Creek, BC V1G 4T6, Canada	55.75918930	-120.227780
+11705 8th St, Dawson Creek, BC V1G 3G9, Canada	55.74422770	-120.2248230
+12121 8th St, Dawson Creek, BC V1G 0B8, Canada	55.7379160	-120.22540210
+8899 120 St, Delta, BC V4C 6R7, Canada	49.16505410000001	-122.89042160
+7229 120 St, Delta, BC V4C 1B4, Canada	49.13468970	-122.89041930
+8037 120 St, Surrey, BC V4C 6P7, Canada	49.14935879999999	-122.8905370
+6439 120 St, Delta, BC V4E 0A1, Canada	49.13328030	-122.8904350
+6439 120 St, Delta, BC V4E 3G3, Canada	49.12077720	-122.89047260
+10190 River Rd, Delta, BC V4C 2R1, Canada	49.15711890	-122.94030840
+4857 Elliott St #114, Delta, BC V4K 2X7, Canada	49.09138429999999	-123.08359750
+8473 120 St, Surrey, BC, Canada	49.15723840	-122.89043320
+6574 Ladner Trunk Rd, Delta, BC V4K 3N3, Canada	49.09013930	-123.04043850
+1215 56 St, Delta, BC V4L 2A6, Canada	49.02630449999999	-123.06873650
+5449 48 Ave, Delta, BC V4K 1W6, Canada	49.09022780	-123.07200610
+11920 70 Ave, Delta, BC V4E 1Z9, Canada	49.13034620	-122.89362760
+8793 River Rd S, Dewdney, BC V0M 1H0, Canada	49.16152450	-122.19600210
+Drinkwater Rd, Duncan, BC, Canada	48.8030730	-123.73661170
+140 Trans-Canada Hwy, Duncan, BC V9L 3P7, Canada	48.7742740	-123.69813070
+6777 Beaumont Ave, Duncan, BC V9L 5X4, Canada	48.81707810	-123.60959770
+2755 Beverly St, Duncan, BC V9L 6C8, Canada	48.78554430	-123.70800940
+6474 Trans-Canada Hwy, Duncan, BC V9L 6C5, Canada	48.80524670	-123.71668460
+127 Trans-Canada Hwy, Duncan, BC V9L 0B2, Canada	48.77355470	-123.69895080
+3287 Cowichan Lake Rd, Duncan, BC V9L 4C1, Canada	48.79188940	-123.73610250
+360 Duncan St, Duncan, BC V9L, Canada	48.77786940	-123.70622460
+Backeddy Rd, Sunshine Coast A, BC V0N 2H4, Canada	49.75597920	-123.93938190
+Michel Rd, Elkford, BC V0B 1H0, Canada	50.02599360	-114.9208410
+900 George St, Enderby, BC V0E 1V0, Canada	50.55033310	-119.14012180
+1510 George St, Enderby, BC V0E 1V1, Canada	50.55550789999999	-119.14126140
+856 Esquimalt Rd, Esquimalt, BC V9A 3M7, Canada	48.43161330	-123.39830130
+533 Admirals Rd, Esquimalt, BC V9A 3P5, Canada	48.42931380	-123.4169910
+792 2 Ave, Fernie, BC V0B 1M0, Canada	49.50472180	-115.05993340
+1641 7 Ave, Fernie, BC V0B 1M5, Canada	49.51336680	-115.05945650
+Riverside Way, Fernie, BC V0B, Canada	49.48657750	-115.07743320
+741 7 Ave, Fernie, BC V0B 1M0, Canada	49.50756879999999	-115.06544440
+3 Ave, Fort Fraser, BC V0J 1N0, Canada	54.0600760	-124.5558120
+4607 55 St, Fort Nelson, BC V0C, Canada	58.80209980000001	-122.71199770
+3995 50 Ave S, Fort Nelson, BC V0C, Canada	58.80150870	-122.67712690
+4204 50 Ave N, Fort Nelson, BC V0C, Canada	58.80365560000001	-122.68596140
+1507 Stones Bay Rd, Fort St James, BC V0J, Canada	54.45738450	-124.26418330
+470 Stuart Dr W, Fort St James, BC V0J, Canada	54.44436640	-124.25862580
+Alder Rd, Peace River C, BC V0C 1H0, Canada	56.25005920	-120.89690740
+10419 Alaska Rd S, Fort St John, BC V1J 5P4, Canada	56.23928489999999	-120.85524710
+9223 100 St, Fort St John, BC V1J 3X3, Canada	56.2391280	-120.84745720
+10440 100 St, Fort St John, BC V1J 3Z3, Canada	56.25087689999999	-120.84744850
+8155 100 Ave, Fort St John, BC V1J 1W5, Canada	56.24637569999999	-120.81328010
+10119 100 Ave, Fort St John, BC V1J 1Y7, Canada	56.2463590	-120.84985920
+9830 100 Ave, Fort St John, BC V1J 1Y7, Canada	56.24663169999999	-120.84606650
+111 Chowsunket St, Fraser Lake, BC V0J, Canada	54.05872580	-124.84979930
+1867 Highway Dr, Fruitvale, BC V1R 4W3, Canada	49.11301690	-117.5500120
+Gabriola Island Ferry, BC, Canada	49.17297960	-123.89474620
+Gabriola Island Chamber Of Commerce, Suite 5-377 Berry Point Rd, Gabriola, BC V0R 1X1, Canada	49.19260120	-123.85585730
+Gabriola Island Ferry, BC, Canada	49.17297960	-123.89474620
+Madrona Dr, Southern Gulf Islands, BC V0N, Canada	48.87865859999999	-123.3178410
+4958 Lyons Rd, Garden Bay, BC V0N 1S1, Canada	49.63240690	-124.02815280
+40330 Tantalus Way, Squamish, BC V8B 0N2, Canada	49.74079610	-123.13308680
+966 Venture Way, Gibsons, BC V0N 1V7, Canada	49.40686080	-123.52443910
+1552 Sunshine Coast Hwy, Gibsons, BC V0N 1V5, Canada	49.40598950	-123.554260
+390 Muchalat Dr, Gold River, BC V0P, Canada	49.7809150	-126.04776610
+1205 9 St S, Golden, BC V0A, Canada	51.29615460	-116.95838660
+429 9 Ave N, Golden, BC V0A, Canada	51.2998880	-116.96627620
+1049 Trans-Canada Hwy, Golden, BC V0A 1H2, Canada	51.31144380000001	-116.97199050
+425 Central Ave, Grand Forks, BC V0H 1H0, Canada	49.03279090	-118.44176290
+1675 Central Ave, Grand Forks, BC V0H 1H9, Canada	49.02950360	-118.4558630
+Copper Ave N, Greenwood, BC V0H 1J0, Canada	49.10276570	-118.67757760
+889 Hot Springs Rd, Harrison Hot Springs, BC V0M 1K0, Canada	49.28465670	-121.78088610
+222 Cedar Ave, Harrison Hot Springs, BC V0M 1K0, Canada	49.30181590	-121.78514120
+46001 Lougheed Hwy, Harrison Mills, BC V0M 1L0, Canada	49.25128480	-121.95502970
+Omineca St, Hazelton, BC V0J 1Y2, Canada	55.25569820	-127.67603620
+Hixon, BC V0K, Canada	53.4169420	-122.5825280
+19974 Silverview Rd, Hope, BC V0X 1L2, Canada	49.36082620	-121.46593570
+272 Wallace St, Hope, BC V0X 1L2, Canada	49.37908580	-121.4424140
+583 Old Hope Princeton Way, Hope, BC V0X 1L4, Canada	49.37563620	-121.42956080
+Shingle Spit Rd, Hornby Island, BC V0R 1Z0, Canada	49.52450630	-124.70648640
+Shingle Spit Trail, Hornby Island, BC V0R 1Z0, Canada	49.50489710	-124.68955340
+Houston, BC, Canada	54.39799720	-126.64820870
+Yellowhead Hwy, Houston, BC V0J, Canada	54.45532230	-126.53695330
+Beattie Dr, Hudson's Hope, BC V0C, Canada	56.02790350	-121.91790130
+1310 7th Ave, Invermere, BC V0A 1A0, Canada	50.50343179999999	-116.02711710
+Hwy 3, Jaffray, BC V0B 1T0, Canada	49.38704050	-115.3200880
+726 Sydney Ave, Kamloops, BC V2B 3J2, Canada	50.69801260	-120.36162530
+843 Desmond St, Kamloops, BC V2B, Canada	50.70124610000001	-120.39296320
+2101 Trans-Canada Hwy, Kamloops, BC V2C 4A6, Canada	50.6798470	-120.26716890
+2101 Trans-Canada Hwy, Kamloops, BC V1S, Canada	50.66266920	-120.40683530
+2101 Trans-Canada Hwy, Kamloops, BC V2C, Canada	50.67834980000001	-120.28392130
+3369 Westsyde Rd, Kamloops, BC V2B, Canada	50.7705450	-120.34319830
+945 W Columbia St, Kamloops, BC V2C 1L5, Canada	50.66806340	-120.35414060
+1050 8 St, Kamloops, BC V2B 2X8, Canada	50.70536760	-120.36393690
+450 Lansdowne St, Kamloops, BC V2C 1Y4, Canada	50.67718490	-120.32673350
+3020 Westsyde Rd, Kamloops, BC V2B, Canada	50.76051150000001	-120.34891160
+490 Paul Lake Rd, Kamloops, BC V2H 1N9, Canada	50.71169180	-120.31357710
+1626 Valleyview Dr, Kamloops, BC V2C, Canada	50.67259030	-120.29719140
+1821 Trans-Canada Hwy, Kamloops, BC V2C, Canada	50.67862190	-120.28262050
+1430 Summit Dr, Kamloops, BC V2E 1E6, Canada	50.66030580	-120.34474440
+5220 Bogetti Pl, Kamloops, BC V2C 4Y7, Canada	50.66900940	-120.18152130
+795 McGill Rd, Kamloops, BC V2C 0B7, Canada	50.6680690	-120.3592370
+Kamloops, BC, Canada	50.6745220	-120.32726740
+377 Tranquille Rd, Kamloops, BC V2B 3G4, Canada	50.68900520	-120.35813030
+1271 Salish Rd, Kamloops, BC V2H 1J9, Canada	50.71181590	-120.33690250
+177 Tranquille Rd, Kamloops, BC V2B 3E8, Canada	50.68465660	-120.35361980
+Princeton-Kamloops Hwy, BC, Canada	50.03204270	-120.62734930
+1380 Hillside Dr, Kamloops, BC V2E, Canada	50.65488310	-120.37767820
+1250 Rogers Way, Kamloops, BC V1S 1N5, Canada	50.65149380	-120.37558180
+1800 Tranquille Rd, Kamloops, BC V2B 3L9, Canada	50.70018470	-120.39508390
+339 St Paul St, Kamloops, BC V2C 3P1, Canada	50.67406970	-120.33427490
+405 Victoria St, Kamloops, BC V2C, Canada	50.67591870	-120.33194740
+343 Front St, Kaslo, BC V0G 1M0, Canada	49.9117240	-116.90337890
+1789 K. L. O. Rd, Kelowna, BC V1W, Canada	49.86094740	-119.45714040
+525 Hwy 97 S, Kelowna, BC V1Y, Canada	49.88356430	-119.49297470
+2395 Gordon Dr, Kelowna, BC V1Y 8W2, Canada	49.87015780	-119.4747310
+4600 Lakeshore Rd, Kelowna, BC V1W 1K7, Canada	49.81716950	-119.49574880
+B C Orchard Industry Museum, Kelowna, BC V1Y 1Z8, Canada	49.8916160	-119.4935690
+BC Wine Museum & VQA Wine Shop, Kelowna, BC V1Y 1Z8, Canada	49.89157900000001	-119.4937410
+BC Orchard Industry Museum, 470 Queensway Ave, Kelowna, BC V1Y 6S7, Canada	49.8873980	-119.4950530
+Government of Canada Bldg, 471 Queensway Ave, Kelowna, BC V1Y, Canada	49.88715999999999	-119.493640
+B C Interior Martial Arts Academy, 510 Bay Ave, Kelowna, BC V1Y 7J7, Canada	49.89917290	-119.49315480
+BC Online School, 905 Badke Rd, Kelowna, BC V1X 5Z5, Canada	49.89085030	-119.40342290
+Kelowna, Lake Country, BC V4V, Canada	50.0607840	-119.4165420
+Kelowna City Of, 470 Queensway Ave, Kelowna, BC V1Y 6S7, Canada	49.8873980	-119.4950530
+Kelowna, Central Okanagan, Subd. A, BC V1X, Canada	49.9396870	-119.3755740
+Kelowna City Of, 645 Dodd Rd, Kelowna, BC V1X 5H1, Canada	49.89704940	-119.38200570
+235 Queensway, Kelowna, BC V1Y 6S4, Canada	49.88756080	-119.49828540
+500 Cook Rd, Kelowna, BC V1W 3G9, Canada	49.84558110	-119.48870860
+1973 Harvey Ave, Kelowna, BC V1Y 6G5, Canada	49.88187320000001	-119.45133710
+437 Glenmore Rd, Kelowna, BC V1V, Canada	49.91323490	-119.44777270
+1992 Dilworth Dr, Kelowna, BC V1Y 9N4, Canada	49.8775840	-119.43662130
+3929 Lakeshore Rd, Kelowna, BC V1W 3K7, Canada	49.84278090	-119.48796680
+348 Bernard Ave, Kelowna, BC V1Y, Canada	49.88654560	-119.49567140
+2789 K. L. O. Rd, Kelowna, BC V1W 4A5, Canada	49.85947380	-119.42420170
+2170 Harvey Ave, Kelowna, BC V1Y 6G8, Canada	49.8819330	-119.43789230
+1171 Harvey Ave, Capri Centre Mall, Kelowna, BC V1Y 3H3, Canada	49.88299070	-119.4744960
+663 Finns Rd, Kelowna, BC V1X 5B8, Canada	49.90786560	-119.39969690
+663 Finns Rd, Kelowna, BC V1X 5B7, Canada	49.90848020	-119.3981250
+Kelowna, BC, Canada	49.88795190	-119.49601060
+590 Hwy 33, Kelowna, BC V1X 6V5, Canada	49.8885570	-119.37553270
+590 Hwy 33, Kelowna, BC V1X 7K8, Canada	49.88904620	-119.39777230
+590 Hwy 33, Kelowna, BC V1X 1Y4, Canada	49.88908530	-119.39986780
+3195 Lakeshore Rd, Kelowna, BC V1W 3T1, Canada	49.85900920	-119.49099670
+200 Hwy 33, Kelowna, BC V1X 8A4, Canada	49.8889790	-119.38980950
+1175 Ellis St, Kelowna, BC V1Y 1Y8, Canada	49.898620	-119.49349850
+1175 Ellis St, Kelowna, BC V1Y 6Y9, Canada	49.89049060	-119.49352930
+1978 Kirschner Rd, Kelowna, BC V1Y 4N6, Canada	49.87850830	-119.4582160
+1310 Water St, Kelowna, BC V1Y 9P4, Canada	49.89141790	-119.49660590
+715 7 St, Keremeos, BC V0X 1N5, Canada	49.20501690	-119.82309570
+447 304 St, Kimberley, BC V1A 3H4, Canada	49.63651669999999	-115.95890430
+400 Ross St, Kimberley, BC V1A 2C6, Canada	49.68425840	-115.98144180
+Kitimat, BC, Canada	54.0629110	-128.6383530
+506 Enterprise Ave, Kitimat, BC V8C 2J5, Canada	54.06023580000001	-128.68669260
+City Centre, Kitimat, BC V8C 1T5, Canada	54.05321370	-128.65258940
+874 Tsimshian Blvd, Kitimat, BC V8C 1T5, Canada	54.0538860	-128.65117540
+1010 1 Ave, Ladysmith, BC V9G, Canada	48.99657999999999	-123.82229790
+1680 Timberlands Rd, Ladysmith, BC V9G 1K1, Canada	49.04334310	-123.88321410
+HWY 97, Lake Country, BC V4V 1H4, Canada	50.03642439999999	-119.40451570
+HWY 97, Lake Country, BC V4V, Canada	50.0548420	-119.4086410
+Hwy 97 Winfield-Oyama Project, Lake Country, BC V4V, Canada	50.10973550	-119.39867380
+Hwy 97 Winfield-Oyama Project, Lake Country, BC V4V 1B6, Canada	50.10679740	-119.39948380
+Hwy 97 Winfield-Oyama Project, Lake Country, BC V4V 2R2, Canada	50.07252450000001	-119.40891980
+HWY 97, Kelowna, BC V4V 1S9, Canada	50.01343420	-119.3996930
+9522 Main St, Lake Country, BC V4V 1S6, Canada	50.0203760	-119.4045210
+56 N Shore Rd, Lake Cowichan, BC V0R 2G0, Canada	48.82816960	-124.0555070
+2792 Peatt Rd, Langford, BC V9B 2X7, Canada	48.44954110	-123.50057040
+2778 Peatt Rd, Victoria, BC V9B 2X7, Canada	48.45038890	-123.50020680
+2668 Sooke Rd, Victoria, BC V9B 1Y6, Canada	48.43276350	-123.52212780
+2903 Sooke Lake Rd, Victoria, BC V9B 4R3, Canada	48.45911120	-123.55356530
+2835 Bryn Maur Rd, Victoria, BC V9B 0H9, Canada	48.44720920	-123.49935970
+20821 Fraser Hwy, Langley, BC V3A 9L3, Canada	49.10173330	-122.64524390
+Langley, BC, Canada	49.0987550	-122.6545940
+4143 208 St, Langley, BC V3A 8N9, Canada	49.07729630	-122.64734650
+2364 200 St, Langley, BC V2Z 1X1, Canada	49.04515370	-122.66909280
+19935 96 Ave, Langley, BC V1M 3C6, Canada	49.17700820	-122.66944450
+B.C. Farm Machinery & Agricultural Museum, 9131 King St, Langley, BC V1M, Canada	49.16856170	-122.57491080
+112 Ave, Maple Ridge, BC V2W, Canada	49.20599170	-122.50773150
+Heli-College Canada Training Inc., Langley, BC V2Y 2N3, Canada	49.09910499999999	-122.6250170
+Evangelical Free Church of Canada Mission, 7600 Glover Rd, Langley, BC V2Y 1Y1, Canada	49.13901770	-122.60102750
+Wycliffe Bible Translators of Canada, 7600 Glover Rd, Langley, BC V2Y 1Y1, Canada	49.140	-122.5963170
+Fraser Valley Regional Library, 20399 Douglas Crescent, Langley, BC V3A 4B3, Canada	49.1036850	-122.6567220
+Township of Langley Civic Facility, 20338 65 Ave, Langley, BC V2Y 3J1, Canada	49.1204680	-122.6596650
+Evangelical Laymen's Church of Canada (Vancouver), Suite 106-20644 Fraser Hwy, Langley, BC V3A 4G5, Canada	49.1035050	-122.65104270
+Campus Crusade for Christ of Canada Inc., 20385 64 Ave, Langley, BC V2Y, Canada	49.1192440	-122.6582470
+19665 Willowbrook Dr, Langley, BC V3S, Canada	49.11411450	-122.67948770
+20811 Fraser Hwy, Langley, BC V3A 9L3, Canada	49.10177560	-122.64535560
+19988 84 Ave, Langley, BC V2Y, Canada	49.1559660	-122.6688340
+20470 88 Ave E, Langley, BC V1M 2Y5, Canada	49.16275390	-122.65681020
+20470 88 Ave, Langley, BC V1M 2E6, Canada	49.16194780	-122.62588540
+20470 88 Ave, Langley, BC V1M 2Y4, Canada	49.16293210000001	-122.66252390
+20470 88 Ave, Langley, BC V1M 3N8, Canada	49.16194820	-122.52524980
+20470 88 Ave E, Langley, BC V1M, Canada	49.16269820	-122.58575330
+20470 88 Ave E, Langley, BC V1M 2G7, Canada	49.16235229999999	-122.6376990
+20470 88 Ave W, Langley, BC V2Y 1Z9, Canada	49.16285740	-122.67228110
+22071 48A Ave, Langley, BC V3A 3N7, Canada	49.09041610	-122.67787090
+22071 48A Ave, Langley, BC V3A 3P7, Canada	49.09038890	-122.62401260
+22071 48A Ave, Langley, BC V3A 2A6, Canada	49.09058839999999	-122.65350790
+22071 48A Ave, Langley, BC V3A 3Z7, Canada	49.09042840000001	-122.61149260
+22071 48 Ave, Langley, BC V3A, Canada	49.08961120	-122.67928930
+22071 48 Ave, Langley, BC V3A 3N1, Canada	49.08939180	-122.61934810
+22071 48 Ave, Langley, BC V4W 1N4, Canada	49.08938870	-122.47805210
+22071 48 Ave, Langley, BC V4W 1J2, Canada	49.08933880	-122.52654660
+48A Ave, Langley, BC V3A 8V3, Canada	49.09040650000001	-122.64578590
+22071 48 Ave, Langley, BC V3A 3N5, Canada	49.08939770	-122.60809050
+8855 202 St, Langley, BC V1M, Canada	49.1642070	-122.66031920
+8855 202 St, Langley, BC V3A 5K9, Canada	49.0895760	-122.66182340
+8855 202 St, Langley, BC V2Y 1N1, Canada	49.11874550	-122.66332610
+8855 202 St, Langley, BC V2Y 3C7, Canada	49.13668950	-122.6625840
+7197 Lantzville Rd, Lantzville, BC V0R 2H0, Canada	49.25050440	-124.07517540
+667 Main St, Lillooet, BC V0K, Canada	50.69287410	-121.93524340
+1237 Main St, Lillooet, BC V0K 1V0, Canada	50.68632660	-121.93675540
+111 Chartrand Ave, Logan Lake, BC V0K 1W0, Canada	50.4934530	-120.81348960
+264 Poplar Dr, Logan Lake, BC V0K 1W0, Canada	50.48510380	-120.81122210
+Aberdeen Rd, BC V0K, Canada	50.17286820	-120.87306580
+2004 Shuswap Ave, Lumby, BC V0E 2G1, Canada	50.24751209999999	-118.96629750
+Vernon Slocan Hwy, Lumby, BC, Canada	50.23385620	-119.00652050
+403 Mackenzie Blvd, Mackenzie, BC V0J, Canada	55.33864190	-123.09476970
+Sunshine Coast Hwy, Madeira Park, BC V0N, Canada	49.66269960	-123.97988340
+Oxbow Frontage Rd, Malakwa, BC V0E 2J0, Canada	50.89926420	-118.81901230
+11232 Dartford St, Maple Ridge, BC V2X 1V1, Canada	49.20665790	-122.64964650
+21755 Lougheed Hwy, Maple Ridge, BC V2X 2S2, Canada	49.21701220	-122.61827710
+9610 287 St, Maple Ridge, BC V2W 1K9, Canada	49.17691869999999	-122.42870540
+22222 Lougheed Hwy, Maple Ridge, BC V2X, Canada	49.21674720	-122.60688230
+21525 Dewdney Trunk Rd, Maple Ridge, BC V2X 3G6, Canada	49.2205940	-122.62428120
+20398 Dewdney Trunk Rd, Maple Ridge, BC V2X 3E3, Canada	49.22141610	-122.65536090
+22648 Dewdney Trunk Rd, Maple Ridge, BC V2X 3K1, Canada	49.22044850	-122.5953180
+22648 Dewdney Trunk Rd, Maple Ridge, BC V2X 6G4, Canada	49.22046820	-122.59743550
+22648 Dewdney Trunk Rd, Maple Ridge, BC V2X 3K2, Canada	49.22043799999999	-122.59418960
+23988 Dewdney Trunk Rd, Maple Ridge, BC V4R 1W2, Canada	49.22030580	-122.55843530
+12968 232 St, Maple Ridge, BC V2X 6V2, Canada	49.23739870	-122.57946520
+20690 Lougheed Hwy, Maple Ridge, BC V2X 2P8, Canada	49.21821870	-122.64799630
+Collison Ave, Masset, BC V0T, Canada	54.01146250	-132.14721060
+494 Arbutus Dr, Mayne, BC V0N 2J1, Canada	48.84537710	-123.25367380
+De Wolf Way, Merritt, BC V1K, Canada	50.12373720	-120.76066150
+Quilchena Ave, Merritt, BC V1K, Canada	50.10970850	-120.78741640
+2350 Voght St, Merritt, BC V1K, Canada	50.11353650	-120.78743590
+7871 Stave Lake St, Mission, BC V2V 7C7, Canada	49.14472890	-122.29207510
+32555 London Ave, The Junction, Mission, BC V2V 6M7, Canada	49.13066520	-122.32315840
+7160 Oliver St, Mission, BC V2V 6K5, Canada	49.13226960	-122.34270970
+32516 14 Ave, Mission, BC V2V 2N7, Canada	49.14741410	-122.32416970
+33395 1 Ave, Mission, BC V2V 1H1, Canada	49.13438439999999	-122.29993090
+515 Broadway St W, Nakusp, BC V0G, Canada	50.23936410	-117.80523170
+1850 Dufferin Crescent, Nanaimo, BC V9S 0A4, Canada	49.1840740	-123.98178820
+5775 Turner Rd, Nanaimo, BC V9T 6L8, Canada	49.22446480	-124.0354710
+1724 Stewart Ave, Nanaimo, BC V9S 4E6, Canada	49.18726729999999	-123.94998320
+4750 Hammond Bay Rd, Nanaimo, BC V9T 1M6, Canada	49.22141470	-123.94865460
+4750 Hammond Bay Rd, Nanaimo, BC V9T 6N2, Canada	49.23446860	-124.04274260
+2954 Trans-Canada Hwy, Nanaimo, BC V9S 4E6, Canada	49.18903490	-123.95146240
+6201 Doumont Rd, Nanaimo, BC V9T 6G7, Canada	49.22304459999999	-124.05042850
+1604 Cedar Rd, Nanaimo, BC V9X 1L1, Canada	49.1162910	-123.87922560
+1604 Cedar Rd, Nanaimo, BC V9X 1L2, Canada	49.11512080	-123.87733120
+4750 Rutherford Rd, Nanaimo, BC V9T, Canada	49.21754809999999	-124.02776960
+1431 Bowen Rd, Nanaimo, BC V9S 1G4, Canada	49.17730180	-123.97017320
+3296 N Island Hwy, Nanaimo, BC V9T 1W1, Canada	49.20471580	-124.00302010
+3296 N Island Hwy, Nanaimo, BC V9T, Canada	49.20537210	-124.00938330
+2220 Bowen Rd, Nanaimo, BC V9S 1H9, Canada	49.1925830	-123.99230
+Island School of Bldg Arts, 3199 Coast Rd, Nanaimo, Subd. A, BC V0R, Canada	49.14467470	-123.70044640
+3956 Victoria Ave, Nanaimo, BC V9T 2E4, Canada	49.20719420	-124.0138880
+1 Terminal Ave, Nanaimo, BC V9R, Canada	49.17052280	-123.94103610
+514 Haliburton St, Nanaimo, BC V9R 4W5, Canada	49.15371080	-123.93247670
+278 Selby St, Nanaimo, BC V9R 3B1, Canada	49.16516220	-123.94289630
+1588 Boundary Crescent, Nanaimo, BC V9S 5L5, Canada	49.1829360	-123.97192050
+2211 Jingle Pot Rd, Nanaimo, BC V9R 6T9, Canada	49.16911690	-123.9874680
+1866 Cedar Rd, Nanaimo, BC V9X 1L7, Canada	49.10591830000001	-123.86009170
+10 Island Hwy, Nanaimo, BC V9R, Canada	49.16864349999999	-123.94039840
+E Island Hwy, Parksville, BC V9P, Canada	49.30147230	-124.25562050
+Island Hwy N, Lantzville, BC V0R 2H0, Canada	49.25167889999999	-124.12983580
+E Island Hwy, Nanoose Bay, BC V9P 9E3, Canada	49.2609360	-124.1978060
+3521 Dolphin Dr, Nanoose Bay, BC V9P 9K1, Canada	49.28552620	-124.13580580
+712 Nelson Ave, Nelson, BC V1L 2N7, Canada	49.50517570	-117.27924390
+616 Vernon St, Nelson, BC V1L, Canada	49.49338550	-117.29307870
+422 Vernon St, Nelson, BC V1L 1S8, Canada	49.49253190	-117.2948080
+1121 Lakeside Dr, Nelson, BC V1L 6G3, Canada	49.49811949999999	-117.29222840
+706 Union St, New Denver, BC V0G 1S1, Canada	49.99047040	-117.37221380
+10 Ave, New Hazelton, BC V0J, Canada	55.24663760	-127.6016610
+810 Quayside Dr, New Westminster, BC V3M 6B9, Canada	49.19977230	-122.91244270
+411 Columbia St, New Westminster, BC V3L, Canada	49.20452230000001	-122.90575640
+48 8 St, New Westminster, BC V3M 5V2, Canada	49.20186220	-122.91230750
+115 12 St, New Westminster, BC V3M 4H1, Canada	49.20105390	-122.92223210
+525 7 St, New Westminster, BC V3M 5T5, Canada	49.21096480	-122.92016940
+140 6th St, New Westminster, BC V3L 2Z9, Canada	49.20611620	-122.91151840
+250 Columbia St, New Westminster, BC V3L 1A7, Canada	49.20539260	-122.90363070
+805 Boyd St, New Westminster, BC V3M 5X2, Canada	49.19086650	-122.94667380
+320 6th St, New Westminster, BC V3L 3B1, Canada	49.20965440	-122.91612410
+1110 Ewen Ave, New Westminster, BC V3M 5E5, Canada	49.18424270	-122.95154630
+1110 Ewen Ave, New Westminster, BC V3M 5E3, Canada	49.18498820	-122.9497830
+1110 Ewen Ave, New Westminster, BC V3M, Canada	49.18656340	-122.94601090
+444 E Columbia St, New Westminster, BC V3L 3X4, Canada	49.2295580	-122.89262640
+1559 Barrow St, North Vancouver, BC V7J 1B7, Canada	49.30417270	-123.03054770
+1515 Barrow St, North Vancouver, BC V7J 1B7, Canada	49.3045640	-123.03193640
+1133 Mt Seymour Rd, North Vancouver, BC V7H 2Y4, Canada	49.31646199999999	-122.96928830
+1015 Marine Dr, North Vancouver, BC V7P 1S8, Canada	49.32383080	-123.1023330
+700 Lillooet Rd, North Vancouver, BC V7J, Canada	49.31240750	-123.02538750
+135 Pemberton Ave, North Vancouver, BC V7P 1A9, Canada	49.31732520	-123.10806330
+2989 Lonsdale Ave, North Vancouver, BC V7N 3J3, Canada	49.33622039999999	-123.07206080
+3020 Edgemont Blvd, Edgemont Post Office, North Vancouver, BC V7R 4X1, Canada	49.33683770	-123.10075640
+86 Semisch Ave, North Vancouver, BC V7M 3G7, Canada	49.31367190	-123.08341020
+1052 Deep Cove Rd, North Vancouver, BC V7G 1C7, Canada	49.31640220	-122.95342620
+333 Brooksbank Ave, North Vancouver, BC V7J 3S8, Canada	49.30948590	-123.04263230
+1262 Lynn Valley Rd, North Vancouver, BC, Canada	49.33697540	-123.03844920
+1887 Marine Dr, North Vancouver, BC V7P 1V5, Canada	49.32394460	-123.12007660
+1433 Lonsdale Ave, North Vancouver, BC V7M 2H9, Canada	49.32130350	-123.07246910
+2187 Oak Bay Ave, Oak Bay, BC V8R 1G4, Canada	48.42644560	-123.31636010
+1045 Main St, Okanagan Falls, BC V0H 1R0, Canada	49.34289240	-119.57158830
+36041 Main St, Oliver, BC V0H 1T0, Canada	49.18463329999999	-119.55042480
+34017 Main St, Oliver, BC V0H 1T0, Canada	49.1710490	-119.55663790
+Osoyoos, BC V0H, Canada	49.03146790	-119.465170
+7603 Spartan Dr, Osoyoos, BC V0H 1V0, Canada	49.0330410	-119.46349790
+240 Dogwood St, Parksville, BC V9P 1N6, Canada	49.32410170	-124.32511010
+240 Dogwood St, Parksville, BC V9P 1E1, Canada	49.32493250	-124.32447220
+163 Alberni Hwy, Parksville, BC V9P, Canada	49.3189690	-124.31379770
+160 Corfield St S #1, Parksville, BC V9P, Canada	49.32025180	-124.30713540
+491 E Island Hwy, Parksville, BC V9P 1V9, Canada	49.31799690	-124.29672080
+5790 Beach Ave, Peachland, BC V0H 1X6, Canada	49.77407150	-119.73576530
+5500 Clements Crescent, Peachland, BC V0H, Canada	49.7845620	-119.718490
+7423 Frontier St, Pemberton, BC V0N 2L1, Canada	50.32167330	-122.80661040
+5827 Schooner Way, Pender Island, BC V0N 2M2, Canada	48.76148870000001	-123.27071780
+1196 Fairview Rd, Penticton, BC V2A, Canada	49.48605149999999	-119.59151190
+Penticton, BC, Canada	49.49913810	-119.59370770
+Penticton, BC, Canada	49.49913810	-119.59370770
+2111 Main St, Penticton, BC V2A 6W6, Canada	49.47281310	-119.58387810
+251 Green Ave W #110, Penticton, BC V2A 7H2, Canada	49.46323120	-119.58717760
+1173 Government St, Penticton, BC V2A 4V4, Canada	49.48851870	-119.57919580
+123 Front St, Penticton, BC V2A 1H3, Canada	49.50241440	-119.59130620
+360 Martin St, Penticton, BC V2A, Canada	49.49767430	-119.59301010
+2460 Skaha Lake Rd, Penticton, BC V2A, Canada	49.46978050	-119.58399970
+3502 Skaha Lake Rd, Penticton, BC V2A, Canada	49.45642590	-119.58690970
+333 Martin St, Penticton, BC V2A 5K3, Canada	49.49829250	-119.59345020
+19040 Lougheed Hwy, Pitt Meadows, BC V3Y, Canada	49.24289670	-122.71954370
+19267 Lougheed Hwy, Pitt Meadows, BC V3Y 2J5, Canada	49.23044150	-122.68734490
+19167 Ford Rd, Pitt Meadows, BC V3Y 2B6, Canada	49.22239030	-122.68972640
+4940 Cherry Creek Rd, Port Alberni, BC V9Y 8E9, Canada	49.26572609999999	-124.78847450
+3835 Redford St, Port Alberni, BC V9Y 3S2, Canada	49.2456910	-124.7920920
+10695 Lakeshore Rd, Port Alberni, BC V9Y 8Z8, Canada	49.28540290	-124.9765160
+5086 Johnston Rd, Port Alberni, BC V9Y 6G3, Canada	49.25745660	-124.81358460
+4963 Angus St, Port Alberni, BC V9Y 2B9, Canada	49.23338810	-124.80749110
+4277 Stamp Ave, Port Alberni, BC V9Y 5J7, Canada	49.25401960	-124.80699210
+4277 Stamp Ave, Port Alberni, BC V9Y 7X8, Canada	49.25121540	-124.80817770
+4850 Beaver Creek Rd, Port Alberni, BC V9Y 7A1, Canada	49.26116950	-124.81863310
+5251 Argyle St, Port Alberni, BC V9Y, Canada	49.23466870	-124.81177980
+5170 Argyle St, Port Alberni, BC V9Y, Canada	49.23453490	-124.80999480
+2089 Lougheed Hwy, Port Coquitlam, BC V3B 1A8, Canada	49.26645560000001	-122.77377630
+1864 Argue St, Port Coquitlam, BC V3C 5K4, Canada	49.23516690	-122.76743110
+2342 Elgin Ave, Port Coquitlam, BC V3C 3G8, Canada	49.26387769999999	-122.78094690
+3255 Coast Meridian Rd, Port Coquitlam, BC V3B 1T3, Canada	49.27176580	-122.75611390
+1760 Kingsway Ave, Port Coquitlam, BC V3C 4P2, Canada	49.25373850	-122.76459430
+4030 Byng Rd, Port Hardy, BC V0N 2P0, Canada	50.68784070	-127.38558130
+6555 Hardy Bay Rd, Port Hardy, BC V0N 2P0, Canada	50.71290650	-127.49230550
+1817 Campbell Way, Port McNeill, BC V0N, Canada	50.58624690	-127.08509590
+1703 Broughton Blvd, Port McNeill, BC V0N 2R0, Canada	50.59033070	-127.08528920
+2929 St Johns St, Port Moody, BC V3H 2C1, Canada	49.27665110	-122.84550610
+3224 St Johns St, Port Moody, BC V3H 2C9, Canada	49.27669990	-122.83259440
+2414 St Johns St, Port Moody, BC V3H 2B2, Canada	49.27672620	-122.85749680
+215 Newport Dr, Port Moody, BC V3H 5B8, Canada	49.28262830	-122.826270
+215 Newport Dr, Port Moody, BC V3H 5C7, Canada	49.28245240	-122.82776860
+215 Newport Dr, Port Moody, BC V3H 5B9, Canada	49.28288040	-122.82593820
+Parkinson Rd, BC V0S, Canada	48.55506030	-124.41150180
+51 St, Pouce Coupe, BC V0C 2C0, Canada	55.71544170	-120.13101880
+7010 Duncan St, Powell River, BC V8A 1W1, Canada	49.83590940000001	-124.52061170
+4675 Ontario Ave, Powell River, BC V8A 5B9, Canada	49.84386989999999	-124.51485130
+6251 Yew St, Powell River, BC V8A 4K1, Canada	49.87292370	-124.55089190
+7074 Westminster St, Powell River, BC V8A 1C7, Canada	49.80256520	-124.51634080
+5987 Lund St, Powell River, BC V8A 4S9, Canada	49.88841970	-124.56336960
+4463 Marine Ave, Powell River, BC V8A 2K4, Canada	49.83655779999999	-124.52720140
+5728 Manson Ave, Powell River, BC V8A 3Y1, Canada	49.87139970	-124.52885660
+3050 Boeing Rd, Prince George, BC V2N 6C6, Canada	53.90188740000001	-122.67659240
+1512 12 Ave, Prince George, BC V2L 2L2, Canada	53.91095650	-122.75473160
+4038 Cowart Rd, Prince George, BC V2N 6H9, Canada	53.88091660000001	-122.76971320
+770 Brunswick St, Prince George, BC V2L 2C2, Canada	53.91361430	-122.75064640
+444 George St, Prince George, BC V2L 1R7, Canada	53.91486650	-122.74351330
+1970 Ospika Blvd S, Prince George, BC V2N, Canada	53.90562130	-122.79709170
+6055 Monterey Rd, Prince George, BC V2K 5B6, Canada	53.97900610	-122.77191860
+HWY-16, Prince George, BC V0J 2N2, Canada	54.81816999999999	-127.1973680
+Hwy 16 Frontage Rd W, Prince George, BC V2N 6G8, Canada	53.83660399999999	-122.8370660
+4488 Hwy 16 Frontage Rd, Prince George, BC V2N 6M9, Canada	53.82582840	-122.86424670
+Hwy 16 St, Prince George, BC V2K 5C4, Canada	53.90727390	-122.67865360
+460 Ospika Blvd S, Prince George, BC V2M 6Y2, Canada	53.91963740	-122.79412230
+460 Ospika Blvd N, Prince George, BC V2M 3P7, Canada	53.92179070	-122.79414490
+3244 10 Ave, Prince George, BC V2M 3C9, Canada	53.91549750	-122.78345150
+1617 Victoria St, Prince George, BC V2L 3Z2, Canada	53.90934820	-122.75521070
+6475 John Hart Hwy, Prince George, BC V2K 3A4, Canada	53.98819330	-122.78436560
+4327 Nordic Dr, Prince George, BC V2K 2S9, Canada	53.99920510	-122.80041010
+100 Tabor Blvd S, Prince George, BC V2M 5N7, Canada	53.92696440	-122.80300310
+4182 15 Ave, Prince George, BC V2M 4J2, Canada	53.91065690	-122.80161470
+Ferry Ave, Prince George, BC, Canada	53.88892520	-122.76998620
+5787 Albert Pl, Prince George, BC V2N 4R5, Canada	53.8664290	-122.7703680
+3328 15 Ave, Prince George, BC V2M, Canada	53.91054020	-122.78404460
+2280 John Hart Hwy, Prince George, BC V2K 5R6, Canada	53.94500780	-122.76200050
+2595 Queensway, Prince George, BC V2L 1N1, Canada	53.89684780	-122.7414120
+487 George St, Prince George, BC V2L 5G4, Canada	53.91457830	-122.74395370
+6957 Giscome Rd, Prince George, BC V2N 6T5, Canada	53.8983420	-122.62239960
+1724 Strathcona Ave, Prince George, BC V2L, Canada	53.90231080	-122.75928810
+433 Carney St, Prince George, BC V2M 1K3, Canada	53.92113209999999	-122.76932910
+9912 Sintich Rd, Prince George, BC V2N 6C9, Canada	53.84993129999999	-122.70557010
+6333 Southridge Ave, Prince George, BC V2N 5A3, Canada	53.86209080	-122.78371750
+725 3 Ave W, Prince Rupert, BC V8J 1M5, Canada	54.31056299999999	-130.32840430
+1125 Park Ave, Prince Rupert, BC V8J, Canada	54.30805760	-130.33415340
+2 Ave W, Prince Rupert, BC V8J, Canada	54.30850870	-130.33388360
+5 Cow Bay Rd, Prince Rupert, BC V8J 1A7, Canada	54.31746510	-130.31795940
+1352 11 Ave E, Prince Rupert, BC V8J 2X1, Canada	54.32094670	-130.2952610
+Hwy 3, Princeton, BC V0X, Canada	49.35844710	-120.55681150
+6120 W Island Hwy, Qualicum Beach, BC V9K 2H1, Canada	49.40579220	-124.63306940
+6120 W Island Hwy, Qualicum Beach, BC V9K 2H1, Canada	49.40579220	-124.63306940
+3109 W Island Hwy, Qualicum Beach, BC V9K 1J7, Canada	49.3552460	-124.46292740
+532 Memorial Ave, Qualicum Beach, BC V9K 1L6, Canada	49.35139010	-124.44389950
+3 Ave, Skeena-Queen Charlotte F, BC V0T, Canada	53.25514270	-132.09899460
+3 Ave, Tlell, BC V0T 1Y0, Canada	53.25432120000001	-132.06270690
+155 Malcolm Dr, Quesnel, BC V2J 1E4, Canada	52.9730740	-122.50668880
+Pinnacles Rd, Quesnel, BC V2J, Canada	52.99025250	-122.53763770
+308 McLean St, Quesnel, BC V2J 2B9, Canada	52.97755020	-122.49517880
+254 Front St, Quesnel, BC V2J 2K4, Canada	52.97661760	-122.4978880
+1262 Maple Heights Rd, Quesnel, BC V2J 3X3, Canada	52.95883030	-122.44684970
+940 Chew Rd, Quesnel, BC V2J 6R8, Canada	52.96373990	-122.44244960
+2330 Hydraulic Rd, Quesnel, BC V2J 4H2, Canada	52.97766880	-122.44176760
+7493 Main St W, Radium Hot Springs, BC V0A 1M0, Canada	50.62190950	-116.0724630
+7538 Main St E, Radium Hot Springs, BC V0A 1M0, Canada	50.62013839999999	-116.07044660
+1925 Laforme Blvd, Revelstoke, BC V0E, Canada	51.01018280	-118.21966280
+2108 Big Eddy Rd, Revelstoke, BC V0E, Canada	50.99779030	-118.23156020
+112 1 St E, Revelstoke, BC V0E, Canada	50.99874240	-118.19525660
+110 Boyle Ave, Revelstoke, BC V0E, Canada	51.00085740	-118.19734330
+7211 Westminster Hwy, Richmond, BC V6X 4C5, Canada	49.17027540000001	-123.14539120
+9371 No 5 Rd, Richmond, BC V7A 3B6, Canada	49.1443120	-123.09180320
+8368 Alexandra Rd, Richmond, BC V6X, Canada	49.17833630	-123.12883230
+8368 Alexandra Rd, Richmond, BC V6X 1C3, Canada	49.17836020	-123.13119920
+8088 Park Rd, Richmond, BC V6Y 2Y8, Canada	49.16471410	-123.13648360
+3671 Westminster Hwy, Richmond, BC V7C 5W6, Canada	49.17030910	-123.18294510
+21000 Westminster Hwy, Richmond, BC V6W 1H3, Canada	49.16914320	-122.99102250
+3031 No 3 Rd, Richmond, BC V6X 3C7, Canada	49.19081070	-123.13106530
+9100 Blundell Rd, Richmond, BC V6Y 2N9, Canada	49.15400529999999	-123.1240570
+7551 Westminster Hwy, Richmond, BC V6X 0B5, Canada	49.17023860	-123.14086590
+12111 3 Ave, Richmond, BC V7E 3A3, Canada	49.12586130	-123.18575960
+3211 Grant McConachie Way, Vancouver International Airport (YVR), Richmond, BC V7B 0A4, Canada	49.19469020	-123.17601310
+3211 Grant McConachie Way, Vancouver International Airport (YVR), Richmond, BC V7B, Canada	49.19475960	-123.17752560
+3211 Grant McConachie, Vancouver International Airport (YVR), Richmond, BC V7B 1K7, Canada	49.19353370	-123.18091760
+10111 Number 3 Rd, Richmond, BC V7A 2E4, Canada	49.13966580	-123.13667760
+10111 No 3 Rd, Richmond, BC V6X, Canada	49.16947280	-123.13646070
+No 3 Rd, Richmond, BC V6Y, Canada	49.16437819999999	-123.13313010
+8180 2 Ave #120, Richmond, BC V7E 1J5, Canada	49.14101470	-123.1842960
+Cook Road Children's Centre, 8300 Cook Rd, Richmond, BC V6Y 1V5, Canada	49.16663250	-123.13434980
+Bowling Green Road Children's Centre, Suite 100-6100 Bowling Green Rd, Richmond, BC V6Y 4G2, Canada	49.1697210	-123.14269330
+5031 Steveston Hwy, Richmond, BC V7E 2B8, Canada	49.13381290	-123.1690660
+3800 Bayview St, Richmond, BC V7E 6K7, Canada	49.12419580	-123.18433990
+5300 No 3 Rd, Lansdowne Centre, Richmond, BC V6X 2X9, Canada	49.17602249999999	-123.13060280
+5300 Number 3 Rd, Richmond, BC V6X, Canada	49.17551240	-123.13658990
+5300 No 3 Rd, Richmond, BC V6X, Canada	49.16947280	-123.13646070
+3031 Beckman Pl, Richmond, BC V6X 3R3, Canada	49.1917170	-123.1092740
+1938 Columbia Ave, Rossland, BC V0G 1Y0, Canada	49.07702860	-117.80134410
+2003 2 Ave, Rossland, BC V0G 1Y0, Canada	49.07941049999999	-117.79991040
+3631 Douglas St #3, Victoria, BC V8T 4N2, Canada	48.44436760	-123.37019770
+3631 Douglas St #3, Saanich, BC V8X, Canada	48.462740	-123.37938970
+3366 Douglas St, Victoria, BC V8Z 3L3, Canada	48.45150870	-123.37522970
+3960 Shelbourne St, Victoria, BC V8N 6J4, Canada	48.46988570	-123.33287220
+4025 Borden St, Victoria, BC V8X 2E8, Canada	48.47142119999999	-123.36128810
+4291 Glanford Ave, Victoria, BC V8Z 4B9, Canada	48.48595950	-123.38790340
+3170 Tillicum Rd, Tillicum Centre, Saanich, BC V9A, Canada	48.45515710	-123.3950710
+3837 Cadboro Bay Rd, Saanich, BC V8P 5E6, Canada	48.46138060	-123.29703490
+3510 Blanshard St, Saanich Plaza, Saanich, BC V8X 1W3, Canada	48.45589610	-123.37329390
+3510 Blanshard St, Saanich, BC V8Z 0B9, Canada	48.45669620	-123.37509460
+4468 W Saanich Rd, Saanich, BC V8Z 5L3, Canada	48.49237760	-123.38709810
+4468 W Saanich Rd, Saanich, BC V8Z 3G2, Canada	48.49336680	-123.38780590
+1660 McKenzie Ave, Victoria, BC V8N 1A7, Canada	48.46875660	-123.32958210
+3810 Shelbourne St, Victoria, BC V8P 5N3, Canada	48.46246230	-123.33311830
+3991 Quadra St, Saanich, BC V8X 4A2, Canada	48.469840	-123.36426590
+2476 Mt Newton Cross Rd, Saanichton, BC V8M 2B8, Canada	48.59454340	-123.39681060
+105 4 St, Salmo, BC V0G 1Z0, Canada	49.19476430	-117.27894290
+115 4 St, Salmo, BC V0G 1Z0, Canada	49.19447640	-117.27830580
+1151 10 Ave SW, Salmon Arm, BC V1E 1T2, Canada	50.69431010	-119.29849860
+Lakeshore Dr E, Salmon Arm, BC V1E, Canada	50.70425250	-119.28009860
+Lakeshore Dr W, Salmon Arm, BC V1E 1E4, Canada	50.69835420	-119.29602450
+Lakeshore Dr NE, Salmon Arm, BC V1E, Canada	50.703770	-119.2815580
+Lakeshore Dr NE, Salmon Arm, BC V1E 1E4, Canada	50.6984150	-119.296160
+973 Lakeshore Rd, Salmon Arm, BC V1E 3X7, Canada	50.70776740	-119.27157370
+Lakeshore Dr NW, Salmon Arm, BC V1E 1E4, Canada	50.70112850	-119.28727460
+Lakeshore Rd NE, Salmon Arm, BC V1E, Canada	50.72852440	-119.26511780
+2950 11 Ave NE, Salmon Arm, BC V1E 2S3, Canada	50.70775370	-119.25383620
+200 Trans-Canada Hwy, Salmon Arm, BC V1E 1S9, Canada	50.69964670	-119.28828550
+1050 30 St SW, Salmon Arm, BC V1E, Canada	50.69255099999999	-119.31973310
+378 Lower Ganges Rd, Salt Spring Island, BC V8K 2P7, Canada	48.86080730	-123.51075720
+149 Fulford Ganges Rd, Salt Spring Island, BC V8K 2T8, Canada	48.85210310	-123.4994030
+2661 Fulford Ganges Rd, Salt Spring Island, BC V8K 1Z4, Canada	48.77165150	-123.46201040
+Sayward Rd, Sayward, BC, Canada	50.37680920	-125.95440890
+5580 Wharf Ave, Sechelt, BC V0N 3A0, Canada	49.47435390	-123.75455810
+5770 Teredo St, Sechelt, BC V0N 3A0, Canada	49.47072379999999	-123.76201470
+Seton Portage, BC V0N, Canada	50.7073770	-122.2895450
+2890 Shawnigan Lake Rd, Shawnigan Lake, BC V0R 2W1, Canada	48.66002980	-123.62771850
+1122 Riverside Ave, Sicamous, BC V0E 2V1, Canada	50.83482650	-118.98955690
+420 Main St, Sicamous, BC V0E 2V0, Canada	50.83616410	-118.98454610
+2280 Beacon Ave, Sidney, BC V8L 1X1, Canada	48.6491620	-123.40508060
+2537 Beacon Ave, Sidney, BC V8L 1Y2, Canada	48.6491810	-123.39304440
+British Columbia 16, Smithers, BC, Canada	54.93292640	-127.29813980
+British Columbia 16, Smithers, BC V0J, Canada	54.70493829999999	-127.05540690
+Yellowhead Hwy, Canada	53.52906220	-116.83156030
+HWY-16, Prince George, BC V0J 2N2, Canada	54.81816999999999	-127.1973680
+1492 Main St, Smithers, BC V0J, Canada	54.78178430	-127.16698870
+Yellowhead Hwy, Canada	53.52906220	-116.83156030
+Yellowhead Trailer Towing, Smithers, BC V0J 2N2, Canada	54.8516540	-127.2215290
+1869 Main St, Smithers, BC V0J 2N0, Canada	54.78191510	-127.15149450
+210 1 St, Sointula, BC V0N 3E0, Canada	50.62775629999999	-127.0177730
+6858 W Coast Rd, Sooke, BC V9Z 0V2, Canada	48.37012199999999	-123.72876810
+6309 Sooke Rd, Sooke, BC V9Z 0G8, Canada	48.3821350	-123.70950130
+5126 Sooke Rd, Sooke, BC V9Z 0E2, Canada	48.39470410	-123.62704750
+9801 Spalding Rd, Pender Island, BC V0N 2M3, Canada	48.74815690	-123.21832940
+614 Douglas Fir Rd, Sparwood, BC V0B 2G0, Canada	49.71528230	-114.8939840
+37991 2 Ave, Squamish, BC V8B, Canada	49.69880020	-123.15482840
+38241 Cleveland Ave, Squamish, BC V8B 0J8, Canada	49.70236650	-123.1502960
+38922 Progress Way, Squamish, BC V8B 0G9, Canada	49.71617350	-123.14948130
+508 5th Ave, Stewart, BC V0J, Canada	55.93611220	-129.99426860
+405 5th Ave, Stewart, BC V0J, Canada	55.93611220	-129.99426860
+7519 Prairie Valley Rd, Summerland, BC V0H 1Z0, Canada	49.60294520	-119.6658540
+14218 Rosedale Ave, Summerland, BC V0H 1Z0, Canada	49.60636530	-119.67758960
+7519 Prairie Valley Rd, Summerland, BC V0H 1Z0, Canada	49.60294520	-119.6658540
+3250 Village Way, Sun Peaks, BC V0E 5N0, Canada	50.88501460	-119.88264410
+413 176 St, Surrey, BC V3S 9S6, Canada	49.00969550000001	-122.73551720
+3550 King George Blvd, Surrey, BC V4P 1B5, Canada	49.0665030	-122.8182170
+1611 128 St, Surrey, BC V4A 3V3, Canada	49.0312880	-122.86752030
+5590 152 St, Surrey, BC V3S 5J9, Canada	49.1043520	-122.8009080
+9082 152 St, Surrey, BC V3R, Canada	49.16792020	-122.8012650
+3140 King George Blvd, Surrey, BC V4P 1A5, Canada	49.05917470	-122.81019520
+7380 King George Blvd, Surrey, BC V3W, Canada	49.13651970	-122.84552510
+3550 King George Blvd, Surrey, BC V4P 1B5, Canada	49.0665030	-122.8182170
+3020 152 St, Surrey, BC V4P, Canada	49.05603970	-122.80108470
+7218 King George Blvd, Surrey, BC V3W, Canada	49.13521080	-122.84552330
+16051 24 Ave, Grandview Corners, Surrey, BC V3S 9H7, Canada	49.04587120	-122.77727850
+18789 Fraser Hwy, Surrey, BC V3S 7Y3, Canada	49.12507220	-122.70461250
+101 Ave, Surrey, BC, Canada	49.1861410	-122.8064290
+12411 King George Blvd, Surrey, BC V3V 3K8, Canada	49.2065510	-122.880310
+9167 148 St, Surrey, BC V3R 3W6, Canada	49.16966170	-122.8123680
+8410 160 St, Surrey, BC V4N 0V7, Canada	49.15561820	-122.77875810
+8555 132 St, Surrey, BC V3W 4N6, Canada	49.15801829999999	-122.85688190
+12054 96 Ave, Surrey, BC V3V 4C1, Canada	49.17713530	-122.88767280
+14817 108 Ave, Surrey, BC V3R 1W1, Canada	49.19873440	-122.8120140
+10176 154 St, Surrey, BC V3R 4J6, Canada	49.18767949999999	-122.79490530
+10176 154 St, Surrey, BC V3R 7K1, Canada	49.18883229999999	-122.79538570
+10176 154 St, Surrey, BC V4P 2L7, Canada	49.05051150	-122.79574810
+10176 154 St, Surrey, BC V3S 8N9, Canada	49.10966070	-122.79636020
+5708 176 St, Surrey, BC V3S 4E3, Canada	49.10608420	-122.73497190
+1626 152 St, Surrey, BC V4A, Canada	49.03158840	-122.80091390
+13588 88 Ave, Surrey, BC V3W 6Y8, Canada	49.16192299999999	-122.8462030
+10768 King George Blvd, Surrey, BC V3T, Canada	49.19821060	-122.84548130
+9850 King George Blvd, Surrey, BC V3T 4Y3, Canada	49.18152710	-122.84535740
+12867 96 Ave, Surrey, BC V3V 6A8, Canada	49.17715560	-122.86493720
+13468 72 Ave, Surrey, BC V3W 5A4, Canada	49.13353980	-122.84933340
+14974 104 Ave, Surrey, BC V3R, Canada	49.19148850	-122.80719850
+7115 138 St, Surrey, BC V3W 0E1, Canada	49.13064720	-122.83870160
+17630 56 Ave, Surrey, BC V3S 1C5, Canada	49.10399510	-122.73415150
+19580 56 Ave, Langley, BC V3S 6K3, Canada	49.10419580	-122.68061240
+5858 176 St, Surrey, BC V3S, Canada	49.10872050	-122.73495960
+13450 102 Ave, Central City Shopping Centre, Surrey, BC V3T 5X4, Canada	49.18734150	-122.85040860
+Head Bay Rd, Tahsis, BC, Canada	49.92368219999999	-126.65548660
+10440 100 St, Taylor, BC V0C 2K0, Canada	56.15243440	-120.6822340
+Riverside St, Telkwa, BC V0J, Canada	54.69833410	-127.05184520
+4620 Lakelse Ave, Terrace, BC V8G 1R3, Canada	54.51667630000001	-128.5891990
+3005 Kalum St, Terrace, BC V8G 4K1, Canada	54.51374209999999	-128.58668540
+4529 Greig Ave, Terrace, BC V8G 1M7, Canada	54.51554429999999	-128.58405170
+2387 Thornhill St, Thornhill, BC V8G 4Z5, Canada	54.50496250	-128.51569090
+46 Harbour Rd, Thetis Island, BC V0R 2Y0, Canada	48.97697620	-123.67013370
+3086 HWY-16, Thornhill, BC V8G 3R9, Canada	54.5124620	-128.5428710
+120 1 St, Tofino, BC V0R, Canada	49.15335470000001	-125.90889140
+1389 Bay Ave, Trail, BC V1R 4A9, Canada	49.09567460	-117.70721320
+3 Schofield Hwy, Trail, BC V1R, Canada	49.0984170	-117.7316160
+Old Rossland Ave, Trail, BC V1R, Canada	49.0997040	-117.72518460
+275 Southgate St, Tumbler Ridge, BC V0C 2W0, Canada	55.12452740	-120.998110
+1786 Peninsula Rd, Ucluelet, BC V0R 3A0, Canada	48.94418410	-125.55204810
+Valemount, BC V0E, Canada	52.831220	-119.2643110
+1485 5 Ave, Valemount, BC V0E, Canada	52.83182440	-119.27716650
+3678 E Hastings St, Vancouver, BC V5K 2A9, Canada	49.28113110	-123.02412220
+3045 Main St, Vancouver, BC V5T 3G5, Canada	49.25798810	-123.10117620
+1445 E 41st Ave, Vancouver, BC V5P 2Y3, Canada	49.23274640	-123.07567470
+900 Seymour St, Vancouver, BC V6B 0A8, Canada	49.2795440	-123.1204320
+6295 Fraser St, Vancouver, BC V5W 3A3, Canada	49.22739070	-123.09070470
+1218 W Pender St, Vancouver, BC V6E 4B1, Canada	49.28858630	-123.12403920
+6509 Victoria Dr, Vancouver, BC V5P 3X9, Canada	49.22496260	-123.06592540
+375 Water St, Vancouver, BC V6B 5C6, Canada	49.28484850	-123.111050
+1116 Hamilton St, Vancouver, BC V6B 2S2, Canada	49.2756360	-123.12131750
+1030 Denman St, Vancouver, BC V6G 2M5, Canada	49.28895830	-123.13925590
+1139 W Broadway, Vancouver, BC V6H 3X5, Canada	49.26345930	-123.12980470
+962 W King Edward Ave, Vancouver, BC V5Z 2E2, Canada	49.24913220	-123.12662610
+855 Burrard St, Vancouver, BC V6Z 1X8, Canada	49.28224480	-123.12439020
+5650 Dunbar St, Vancouver, BC V6N 1W7, Canada	49.23512410	-123.185160
+961 Denman St, Vancouver, BC V6G, Canada	49.2899280	-123.1379560
+1633 Manitoba St, Vancouver, BC V5Y 1A6, Canada	49.27115120	-123.10686170
+2409 Burrard St, Vancouver, BC V6J 3J3, Canada	49.2643680	-123.14590060
+1622 Commercial Dr, Vancouver, BC V5L 3Y4, Canada	49.27009040	-123.06949960
+433 Robson St, Vancouver, BC V6B 3A4, Canada	49.27971340000001	-123.11719770
+4892 Clarendon St, Vancouver, BC V5R, Canada	49.24033980	-123.05439750
+4333 Fraser St, Vancouver, BC V5V 4G3, Canada	49.24621860	-123.09020790
+2658 Granville St, Vancouver, BC V6H 3H2, Canada	49.26229990	-123.13842290
+3338 W Broadway, Vancouver, BC V6K 4N7, Canada	49.26425580	-123.17855350
+4583 W 10th Ave, Vancouver, BC V6R 2J5, Canada	49.26409810	-123.21153380
+2289 W Broadway, Vancouver, BC V6K 2E4, Canada	49.26390190	-123.15704760
+2800 E 1st Ave, Vancouver, BC V5M 4N9, Canada	49.2693370	-123.04472830
+243 E 1st Ave, Vancouver, BC V6A 2P3, Canada	49.26934880	-123.09909320
+3415 Cambie St, Vancouver, BC V5Z 2W9, Canada	49.25478980	-123.11523980
+more than SKIN on boulevard laser + skin care center, 5789 West Blvd, Vancouver, BC V6M 3W8, Canada	49.23381130000001	-123.15577970
+1489 E Hastings St, Vancouver, BC V5L 1S4, Canada	49.28149680	-123.07450670
+2001 Macdonald St, Vancouver, BC V6K 1P9, Canada	49.26805710	-123.1684950
+769 E Hastings St, Vancouver, BC V6A 1R8, Canada	49.28113180	-123.08792760
+2018 W 4th Ave, Vancouver, BC V6J 1M7, Canada	49.26799519999999	-123.15114730
+725 SE Marine Dr, Vancouver, BC V5X 2T9, Canada	49.21109879999999	-123.0896370
+1450 SW Marine Dr, Vancouver, BC V6P 5Z9, Canada	49.20454660	-123.1394970
+1275 Granville St, Vancouver, BC V6Z 3B4, Canada	49.27636690	-123.12739810
+898 W Broadway, Vancouver, BC V5Z 1K1, Canada	49.26336550	-123.12405430
+1901 Powell St, Vancouver, BC V5L 1J5, Canada	49.28482400000001	-123.06542070
+3728 Clark Dr, Vancouver, BC V5V 3E2, Canada	49.25128450	-123.07792970
+2769 E Hastings St, Vancouver, BC V5K 2A1, Canada	49.2812480	-123.04777490
+3678 E Hastings St, Vancouver, BC V5K 2A9, Canada	49.28113110	-123.02412220
+1075 Hornby St, Vancouver, BC V6Z 2S1, Canada	49.27985109999999	-123.12600480
+2889 E Hastings St, Vancouver, BC V5K 2A1, Canada	49.28126710	-123.04549130
+678 Dunsmuir St, Vancouver, BC V6B 1Y6, Canada	49.28301980	-123.11569360
+500 W 12th Ave, Vancouver, BC V5Z 3X7, Canada	49.26041570	-123.11522150
+2733 Commercial Dr, Vancouver, BC V5N, Canada	49.26013409999999	-123.07001010
+4474 Dunbar St, Vancouver, BC V6S 2G4, Canada	49.24657080	-123.1851070
+568 Abbott St, Vancouver, BC V6B 6C1, Canada	49.27997360000001	-123.10760140
+2508 Burrard Ave, Vanderhoof, BC V0J, Canada	54.01693690	-124.00906170
+190 1 St, Vanderhoof, BC V0J 3A2, Canada	54.01396579999999	-124.0112260
+Church Ave, Vanderhoof, BC V0J, Canada	54.016050	-124.0114720
+4801 27 St, Vernon, BC V1T, Canada	50.28203730	-119.26654640
+4400 32 St, Vernon, BC V1T 9G8, Canada	50.27635570	-119.27400330
+2705 32 St, Vernon, BC V1T, Canada	50.26200380	-119.27379770
+4209 27 St, Vernon, BC V1T 4Y4, Canada	50.2745650	-119.26629530
+1220 Kalamalka Lake Rd, Vernon, BC V1T 8C1, Canada	50.25008649999999	-119.26236810
+4803 Pleasant Valley Rd, Vernon, BC V1T 4M4, Canada	50.27849670	-119.25478490
+4513 25 Ave, Vernon, BC V1T 6L3, Canada	50.25578230	-119.30672660
+2922 30 Ave, Vernon, BC V1T 8G1, Canada	50.2637740	-119.27064910
+3914 32 St, Vernon, BC V1T 5T8, Canada	50.2714350	-119.2747880
+3004 30 Ave, Vernon, BC V1T 5E1, Canada	50.26377760	-119.27106310
+6301 Stickle Rd, Vernon, BC V1B 3L6, Canada	50.29730960	-119.2529120
+Victoria, BC, Canada	48.42842070	-123.36564440
+230 Cook St, Victoria, BC V8V 3X3, Canada	48.41400720000001	-123.35676650
+510 Pandora Ave, Victoria, BC V8W 1W3, Canada	48.42851850	-123.3692620
+919 Douglas St, Victoria, BC V8W 2C1, Canada	48.423550	-123.36563510
+1821 Cook St, Victoria, BC V8T, Canada	48.42982560	-123.35276960
+3020 Blanshard St, Victoria, BC V8T 5C7, Canada	48.44402290	-123.36749440
+427 Belleville St, Victoria, BC V8V 4W9, Canada	48.42129730	-123.37295590
+2852 Douglas St, Victoria, BC V8T 4R1, Canada	48.43977650	-123.36791710
+759 Yates St, Victoria, BC V8W 2E8, Canada	48.42621470	-123.36366450
+759 Yates St, Victoria, BC V8W 1L4, Canada	48.42607590	-123.36212780
+123 Gorge Rd E, Victoria, BC V9A 1L1, Canada	48.44305620	-123.38596150
+2915 Douglas St, Victoria, BC V8T 4M8, Canada	48.44200390	-123.36862410
+1075 Tillicum Rd, Victoria, BC V9A 2A3, Canada	48.44554450	-123.40042710
+930 View St, Victoria, BC V8V 3L5, Canada	48.42488400000001	-123.35830210
+2631 Quadra St, Victoria, BC V8T 5A8, Canada	48.43855310	-123.35890770
+1505 Admirals Rd, Victoria, BC V9A 2R1, Canada	48.44805030	-123.42652510
+1450 Douglas St, Victoria, BC V8W 2G2, Canada	48.42783540	-123.36475780
+2323 Millstream Rd, Victoria, BC V9B 3R3, Canada	48.46452379999999	-123.50038550
+3201 Shelbourne St, Victoria, BC V8T 3A6, Canada	48.44817630	-123.33315880
+176 Wilson St, Victoria, BC V9A 7N6, Canada	48.43265299999999	-123.3810570
+2940 Jutland Rd, Victoria, BC V8T 2K1, Canada	48.43915639999999	-123.37876760
+425 Simcoe St, Victoria, BC V8V 2E7, Canada	48.41580099999999	-123.3755210
+23 Helmcken Rd, View Royal, BC V8Z 5G5, Canada	48.4665510	-123.42879920
+498 Island Hwy, View Royal, BC V9B 1H5, Canada	48.45555390	-123.46006610
+870 Schofield Hwy, Warfield, BC V1R 2G8, Canada	49.09098609999999	-117.75239160
+Larch Rd, Wasa, BC V0B 2K0, Canada	49.77006210	-115.73807680
+2442 Drought Rd, West Kelowna, BC V4T 1P7, Canada	49.83053930	-119.62691730
+3645 Gosset Rd, West Kelowna, BC V4T 2N4, Canada	49.83223440	-119.62809160
+3000 Louie Dr, Westbank, BC V4T 2L3, Canada	49.84099819999999	-119.61144430
+2210 Boucherie Rd, West Kelowna, BC V1Z 2E5, Canada	49.87107170	-119.54886550
+1751 Ross Rd, West Kelowna, BC V1Z 1L9, Canada	49.86086320	-119.58823270
+900 Main St, Vancouver, BC V6A 2W1, Canada	49.27662260	-123.09965620
+1 Main St, Vancouver, BC V6A 3Y5, Canada	49.28520620	-123.10021070
+1 Main St, Vancouver, BC V6A, Canada	49.28454590	-123.10069440
+900 Main St, Vancouver, BC V6A 2V4, Canada	49.27873940	-123.09976770
+2477 Marine Dr, West Vancouver, BC V7V, Canada	49.33484610	-123.18146920
+100 Park Royal S, West Vancouver, BC V7T 2Z4, Canada	49.325360	-123.1335640
+220 16 St, West Vancouver, BC V7V 3R5, Canada	49.32795440	-123.15891060
+2129 Lake Placid Rd, Whistler, BC V0N 1B2, Canada	50.09572499999999	-122.9951830
+7017 Nesters Rd, Whistler, BC V0N 1B7, Canada	50.12893769999999	-122.95446160
+4573 Chateau Blvd, Whistler, BC V0N 1B0, Canada	50.11735870	-122.94657310
+1235 Johnston Rd, White Rock, BC V4B 3Y8, Canada	49.02458280	-122.80132830
+15144 N Bluff Rd, White Rock, BC V4B, Canada	49.03107640	-122.8039160
+3015 Mackenzie Ave N, Williams Lake, BC V2G 1P5, Canada	52.14734490	-122.16949320
+245 Donald Rd, Williams Lake, BC V2G, Canada	52.13446990	-122.13355420
+1730 Broadway Ave S, Williams Lake, BC V2G 2W4, Canada	52.1223570	-122.09821030
+1114 Denny Rd, Williams Lake, BC V2G 3G9, Canada	52.09793149999999	-122.12323270
+1118 Lakeview Crescent, Williams Lake, BC V2G 1A2, Canada	52.12687350	-122.12426330
+10524 N Shore Rd, Youbou, BC V0R 3E1, Canada	48.88807260	-124.25947480
+Maquinna Ave, Zeballos, BC, Canada	49.98457470	-126.84582950
