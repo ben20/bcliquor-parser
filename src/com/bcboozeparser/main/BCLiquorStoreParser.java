@@ -16,28 +16,15 @@ import java.util.List;
 import com.bcboozeparser.main.LiquorStoreLocation.LiquorStore;
 import com.google.gson.Gson;
 
-/**
- * This is a script that processes a CVS file containing the location of private
- * liquor stores found from http://www.data.gov.bc.ca/ and uses the Google's
- * GeoCode API to retrieve the latitude and longitude of each location and
- * places it in a new textfile.
- * 
- * This script was intended to be used to create a usable data format in an
- * android app called BC Booze Finder.
- * 
- * @author benkeung
- * 
- */
-public class AddressToLatLng {
+public class BCLiquorStoreParser {
 
 	private static final String GEOCODE_URL_PREFIX = "http://maps.googleapis.com/maps/api/geocode/json?address=";
-	private static final String LIQUOR_STORE_FILE = "/Users/benkeung/Documents/workspace/JavaHackProject/assets/web_lrs.csv";
-	private static final String NEW_LATLNG_FILE = "assets/ls-latlng.txt";
+	private static final String LIQUOR_STORE_FILE = "/Users/benkeung/Documents/workspace/BCBoozeParser/assets/BC_Liquor_Store_Locations-text.txt";
+	private static final String NEW_LATLNG_FILE = "assets/ls-latlng_BCL.txt";
 
-	public static void main(String[] args) {
-
+	public static void main(String[] arigs) {
 		createFile(NEW_LATLNG_FILE);
-		parsePrivateLiquorStoreCVS(LIQUOR_STORE_FILE);
+		parseBCLiquorStoreCVS(LIQUOR_STORE_FILE);
 	}
 
 	/**
@@ -53,6 +40,7 @@ public class AddressToLatLng {
 		try {
 			x = new Formatter(file_name);
 		} catch (FileNotFoundException e) {
+			System.out.println(e.getMessage());
 		}
 	}
 
@@ -73,42 +61,52 @@ public class AddressToLatLng {
 	}
 
 	/**
-	 * Parses the CVS file and calls the function to create a URL that is
-	 * GeoCode API compatible.
+	 * Parses the BC liquor store file [0] - store number [1] - name [2] -
+	 * address [3] - city [4] - postal code [5] - phone [6] - fax
 	 * 
 	 * @param file
-	 *            is the filename and path of DataBC's liquor store data
 	 */
-	private static void parsePrivateLiquorStoreCVS(String file) {
-
+	private static void parseBCLiquorStoreCVS(String file) {
 		try {
 			BufferedReader br = new BufferedReader(new FileReader(file));
 			String line = "";
-
 			String dataLine[];
-			while ((line = br.readLine()) != null) {
-				dataLine = line.split(",");
 
-				String city = dataLine[0];
-				String address = dataLine[1];
+			while ((line = br.readLine()) != null) {
+				dataLine = line.split("\t");
+
+				// System.out.println(dataLine[0] + ": " + dataLine.length);
+				String address = dataLine[2];
+				String city = dataLine[3];
+
+				// ie. store number, name, phone number, postal code,
+				// delimited by \t
+				// 0 - store num; 1 - name; 2 - postal code; 3 - phone
+				StringBuilder information = new StringBuilder();
+				information.append(dataLine[0] + "\t");
+				information.append(dataLine[1] + "\t");
+				information.append(dataLine[4] + "\t");
+				information.append(dataLine[5] + "\t");
+
 				try {
 					Thread.sleep(100);
 				} catch (InterruptedException e) {
 
 				}
-				createGeocodeURL(address, city);
+				createGeocodeURL_BCL(address, city, information.toString());
 			}
 		} catch (IOException e) {
-
+			System.out.println("IOException: " + e.getMessage());
 		}
 	}
 
 	/**
-	 * Creates an acceptable GeoCode API URl
+	 * Creates an acceptable GeoCode API URL.
 	 * 
 	 * @return A URL sequence for the GeoCode API
 	 */
-	private static String createGeocodeURL(String address, String city) {
+	private static String createGeocodeURL_BCL(String address, String city,
+			String information) {
 		StringBuilder sb = new StringBuilder();
 		sb.append(GEOCODE_URL_PREFIX);
 
@@ -126,16 +124,28 @@ public class AddressToLatLng {
 		String address_split[];
 		address_split = address.split(" ");
 		for (int i = 0; i < address_split.length; i++) {
-			if (i == 0)
-				sb.append(",+" + address_split[i]);
-			else
-				sb.append("+" + address_split[i]);
+			if (!address_split[i].contains("#")
+					&& !address_split[i].contains("-")) {
+
+				if (i == 0)
+					sb.append(",+" + address_split[i]);
+
+				else
+					sb.append("+" + address_split[i]);
+			}
 		}
+
+		String infoSplit[];
+		infoSplit = information.split("\t");
+		String postalSplit[];
+		postalSplit = infoSplit[2].split(" ");
+		sb.append(",+" + postalSplit[0]);
+		sb.append("+" + postalSplit[1]);
 
 		sb.append(",+CA&sensor=true");
 
-		System.out.println(sb.toString());
-		addressToLatLng(address, city, sb.toString());
+//		System.out.println(sb.toString());
+		 addressToLatLng(address, city, sb.toString(), information);
 
 		return sb.toString();
 	}
@@ -149,7 +159,7 @@ public class AddressToLatLng {
 	 * 
 	 */
 	private static void addressToLatLng(String address, String city,
-			String url_name) {
+			String url_name, String information) {
 
 		try {
 			URL my_url = new URL(url_name);
@@ -166,13 +176,16 @@ public class AddressToLatLng {
 			while ((input = br.readLine()) != null) {
 				sb.append(input);
 			}
-			parseJSONInput(address, city, sb.toString());
 
+			parseJSONInput(address, city, sb.toString(), information);
+
+			System.out.println(sb.toString());
 			br.close();
 		} catch (MalformedURLException e) {
+			System.out.println(e.getMessage());
 
 		} catch (IOException e) {
-
+			System.out.println(e.getMessage());
 		}
 	}
 
@@ -185,8 +198,12 @@ public class AddressToLatLng {
 	 * CHANGES: - only parses the first result from the JSON output. The
 	 * multiple results in the JSON are due to the location being found in a
 	 * complex. (I think).
+	 * 
+	 * 'information' index values: // 0 - store num; 1 - name; 2 - postal code;
+	 * 3 - phone
 	 */
-	private static void parseJSONInput(String address, String city, String json) {
+	private static void parseJSONInput(String address, String city,
+			String json, String information) {
 		Gson gson = new Gson();
 
 		LiquorStoreLocation ls_location = null;
@@ -195,20 +212,30 @@ public class AddressToLatLng {
 		List<LiquorStore> liquorStore = ls_location.getResults();
 
 		StringBuilder sb;
-		if (liquorStore.isEmpty()) {
-			writeToFile(NEW_LATLNG_FILE, "Empty\n");
-		} else {
-			LiquorStore ls = liquorStore.get(0);
 
+		if (liquorStore.isEmpty()) {
+			System.out.println("EMPTY");
 			sb = new StringBuilder();
 			sb.append(address + " " + city + "\t");
-			String lat = ls.getGeometry().getLocation().getLat() + "\t";
-			String lng = ls.getGeometry().getLocation().getLng() + "\n";
+			sb.append("LAT\tLNG\t");
+			sb.append(information + "\n");
 
-			System.out.println(address + lat + lng);
+			writeToFile(NEW_LATLNG_FILE, sb.toString());
+			// writeToFile(NEW_LATLNG_FILE, "Empty\n");
+		} else {
+			System.out.println("NOT EMPTY");
+			sb = new StringBuilder();
+
+			LiquorStore ls = liquorStore.get(0);
+
+			// information should already contain a final \t
+			sb.append(address + "\t" + city + "\t");
+			String lat = ls.getGeometry().getLocation().getLat() + "\t";
+			String lng = ls.getGeometry().getLocation().getLng() + "\t";
 
 			sb.append(lat);
 			sb.append(lng);
+			sb.append(information + "\n");
 
 			writeToFile(NEW_LATLNG_FILE, sb.toString());
 		}
